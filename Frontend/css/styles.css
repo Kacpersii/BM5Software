@@ -1,0 +1,30 @@
+body
+{
+    background-color: #efefef;
+}
+.doctorDetails 
+{
+    background-color:#dfe6ee;
+}
+.workplaceDetails 
+{
+    background-color:#dfe6ee;
+}
+#form
+{
+    display: none;
+    margin: 20px 0;
+    padding: 30px;
+    background-color: #fdfdfd;
+}
+#assignForm
+{
+    display: none;
+    margin: 20px 0;
+    padding: 30px;
+    background-color: #fdfdfd;
+}
+#added
+{
+    display: block;
+}
